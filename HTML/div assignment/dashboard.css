@@ -1,0 +1,28 @@
+.card{
+    display: flex;
+    gap: 20PX;
+}
+body{
+    padding: 20px;
+    background-color: rgb(90, 61, 25);
+}
+.menu{
+    display: grid;
+    gap: 25px;
+    
+}
+.tilte{
+    color: black;
+    width: 300px;
+    
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+.card{
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 1400px;
+    margin: 35px;
+
+}
+    

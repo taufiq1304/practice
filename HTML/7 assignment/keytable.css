@@ -1,0 +1,31 @@
+.content-table {   
+            margin-left: 370px;
+            margin-right: 250px;
+            min-width: none;
+
+        }
+
+         .content-table thead tr { 
+            background-color: rgb(73, 20, 20);
+            color: white; 
+            text-align: center;
+            
+
+        }
+
+         .content-table th, 
+          .content-table td { 
+            padding-left: 15px;
+            padding-right: 15px;
+            text-align: center;
+
+        }
+         .middle-three td{ 
+            color: black;
+            background-color: rgb(167, 123, 108);
+
+        }
+         .middle-two{ 
+            color: black;
+            background-color: rgb(169, 166, 162);
+        }

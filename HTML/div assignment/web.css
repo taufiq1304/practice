@@ -1,0 +1,98 @@
+/* .parent{
+    display: flex;
+    position: absolute;
+    left: 200px;
+    margin: 30px;
+    
+}
+h2 {
+    text-align: center;
+    color: rgb(54, 161, 54);
+}
+p{
+    text-align: center;
+}
+.stats{
+    
+    background-color: rgb(185, 185, 30);
+    margin: 10px;
+    display: flex;
+    margin-top: auto;
+
+}
+img{
+    width: 300px;
+
+}
+.child{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    align-items: center;
+   
+    
+} */
+
+h2,p{
+    text-align: center;
+}
+h2{
+    color: rgb(34, 133, 34);
+}
+.parent{
+    position: absolute;
+    left: 200px;
+    display: flex;
+    gap: 30px;
+    text-align: center;
+    margin: 10px;
+}
+img{
+    width: 400px;
+}
+.child{
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.horz{
+    background-color: rgb(138, 138, 31);
+    position: absolute;
+    top: 30em;
+    width: 95em;
+}        
+.box{
+    display: flex;
+    margin: 20px;
+    
+}
+.hhhh{
+    width: 22em;
+}
+
+
+h2{ text-align: center;
+    color: rgb(34, 133, 34);
+    
+}
+p{
+    text-align: center;
+}
+#container1{
+    display: flex;
+     gap: 30px;
+     position: absolute;
+     top: 45em;
+     
+}
+#container1 img {
+    width: 200px;
+}
+.content{
+    text-align: center;
+    justify-content: center;
+    width: 300px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.content p{
+    font-size: small;
+}
